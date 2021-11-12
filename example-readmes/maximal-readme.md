@@ -1,9 +1,9 @@
 # Title
 
-![banner]()
+![banner](https://plchldr.co/i/1070x200?text=banner)
 
-![badge]()
-![badge]()
+![badge](https://img.shields.io/badge/some-badge-purple)
+![badge](https://img.shields.io/badge/another-badge-orange)
 [![license](https://img.shields.io/github/license/:user/:repo.svg)](LICENSE)
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
